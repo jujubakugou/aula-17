@@ -1,1 +1,2 @@
-# aula-17
+# collisionAlgorithm
+Algorithm to detect collision between two objects
